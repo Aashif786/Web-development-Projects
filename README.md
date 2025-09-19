@@ -1,2 +1,2 @@
 
-https://aashif786.github.io/Training/
+https://aashif786.github.io/Web-development-Projects/
